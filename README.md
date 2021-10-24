@@ -1,5 +1,5 @@
 # githubproject
-test of creating of remote repository
+test of creating of remote репозитарий
 
 changing of 4 line in file
 
@@ -13,4 +13,8 @@ kdfjlgksjdfklgj
 впврпвпрпы
 ывапывапывап
 ывапывапывапывапыва
+<<<<<<< HEAD
 отправка изменений в удаленный репозиторий git push
+=======
+
+>>>>>>> 62ed05f3a09a9c02cf4f087341a09bca280a2502
